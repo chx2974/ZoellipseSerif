@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="checkedbox" format="2">
+  <advance width="863"/>
+  <unicode hex="2611"/>
+  <outline>
+    <component base="checkbox"/>
+    <component base="check" xOffset="161" yOffset="77"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,1,0.8,0.2</string>
+    </dict>
+  </lib>
+</glyph>

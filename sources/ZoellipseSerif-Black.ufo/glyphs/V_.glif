@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="V" format="2">
+  <advance width="710"/>
+  <unicode hex="0056"/>
+  <anchor x="421" y="727" name="aboveUC"/>
+  <anchor x="359" y="-22" name="belowLC"/>
+  <outline>
+    <contour>
+      <point x="290" y="-1" type="line"/>
+      <point x="411" y="-1" type="line"/>
+      <point x="658" y="706" type="line"/>
+      <point x="586" y="706" type="line"/>
+      <point x="414" y="196" type="line"/>
+      <point x="408" y="181" type="line"/>
+      <point x="429" y="181" type="line"/>
+      <point x="257" y="706" type="line"/>
+      <point x="40" y="706" type="line"/>
+    </contour>
+    <contour>
+      <point x="6" y="644" type="line"/>
+      <point x="167" y="628" type="line"/>
+      <point x="210" y="628" type="line"/>
+      <point x="370" y="648" type="line"/>
+      <point x="370" y="706" type="line"/>
+      <point x="6" y="706" type="line"/>
+    </contour>
+    <contour>
+      <point x="479" y="648" type="line"/>
+      <point x="596" y="628" type="line"/>
+      <point x="611" y="628" type="line"/>
+      <point x="709" y="644" type="line"/>
+      <point x="709" y="706" type="line"/>
+      <point x="479" y="706" type="line"/>
+    </contour>
+  </outline>
+</glyph>

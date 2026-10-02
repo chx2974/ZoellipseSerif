@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexcaron.cap" format="2">
+  <anchor x="0" y="727" name="_aboveUC"/>
+  <outline>
+    <contour>
+      <point x="-178" y="740" type="line"/>
+      <point x="52" y="810" type="line"/>
+      <point x="-52" y="810" type="line"/>
+      <point x="178" y="740" type="line"/>
+      <point x="199" y="784" type="line"/>
+      <point x="39" y="890" type="line"/>
+      <point x="-40" y="890" type="line"/>
+      <point x="-199" y="784" type="line"/>
+    </contour>
+    <contour>
+      <point x="-40" y="918" type="line"/>
+      <point x="39" y="918" type="line"/>
+      <point x="199" y="1024" type="line"/>
+      <point x="178" y="1069" type="line"/>
+      <point x="-52" y="999" type="line"/>
+      <point x="52" y="999" type="line"/>
+      <point x="-178" y="1069" type="line"/>
+      <point x="-199" y="1024" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5,0.5,0.5,0.5</string>
+    </dict>
+  </lib>
+</glyph>

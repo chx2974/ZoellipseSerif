@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hadescender" format="2">
+  <advance width="568"/>
+  <unicode hex="04B3"/>
+  <outline>
+    <contour>
+      <point x="534" y="0" type="line"/>
+      <point x="481" y="47" type="line"/>
+      <point x="513" y="-162" type="line"/>
+      <point x="562" y="-162" type="line"/>
+      <point x="569" y="39" type="line"/>
+      <point x="433" y="66" type="line"/>
+      <point x="433" y="0" type="line"/>
+    </contour>
+    <component base="ha"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,1,0.4,0.2</string>
+    </dict>
+  </lib>
+</glyph>

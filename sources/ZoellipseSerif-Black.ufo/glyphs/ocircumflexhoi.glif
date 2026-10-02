@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ocircumflexhoi" format="2">
+  <advance width="615"/>
+  <unicode hex="1ED5"/>
+  <outline>
+    <component base="o"/>
+    <component base="circumflexhoi" xOffset="308" yOffset="15"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,1,0.8,0.2</string>
+    </dict>
+  </lib>
+</glyph>

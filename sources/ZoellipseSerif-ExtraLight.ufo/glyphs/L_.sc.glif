@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="L.sc" format="2">
+  <advance width="588"/>
+  <anchor x="195" y="618" name="aboveUC"/>
+  <anchor x="331" y="-22" name="belowLC"/>
+  <outline>
+    <contour>
+      <point x="67" y="0" type="line"/>
+      <point x="195" y="0" type="line"/>
+      <point x="195" y="42" type="line"/>
+      <point x="186" y="42" type="line"/>
+      <point x="67" y="31" type="line"/>
+    </contour>
+    <contour>
+      <point x="159" y="0" type="curve"/>
+      <point x="230" y="0" type="line"/>
+      <point x="227" y="90"/>
+      <point x="227" y="183"/>
+      <point x="227" y="265" type="curve" smooth="yes"/>
+      <point x="227" y="306" type="line" smooth="yes"/>
+      <point x="227" y="413"/>
+      <point x="227" y="505"/>
+      <point x="230" y="596" type="curve"/>
+      <point x="159" y="596" type="line"/>
+      <point x="162" y="506"/>
+      <point x="162" y="414"/>
+      <point x="162" y="321" type="curve" smooth="yes"/>
+      <point x="162" y="270" type="line" smooth="yes"/>
+      <point x="162" y="183"/>
+      <point x="162" y="92"/>
+    </contour>
+    <contour>
+      <point x="186" y="554" type="line"/>
+      <point x="203" y="554" type="line"/>
+      <point x="321" y="565" type="line"/>
+      <point x="321" y="596" type="line"/>
+      <point x="67" y="596" type="line"/>
+      <point x="67" y="565" type="line"/>
+    </contour>
+    <contour>
+      <point x="195" y="0" type="line"/>
+      <point x="525" y="0" type="line"/>
+      <point x="534" y="161" type="line"/>
+      <point x="490" y="161" type="line"/>
+      <point x="465" y="27" type="line"/>
+      <point x="478" y="38" type="line"/>
+      <point x="195" y="38" type="line"/>
+    </contour>
+  </outline>
+</glyph>

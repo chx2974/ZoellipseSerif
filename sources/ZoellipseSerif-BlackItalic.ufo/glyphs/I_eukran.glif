@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ieukran" format="2">
+  <advance width="653"/>
+  <unicode hex="0404"/>
+  <anchor x="449" y="725" name="aboveUC"/>
+  <outline>
+    <contour>
+      <point x="187" y="328" type="line"/>
+      <point x="434" y="328" type="line"/>
+      <point x="447" y="396" type="line"/>
+      <point x="200" y="396" type="line"/>
+    </contour>
+    <contour>
+      <point x="405" y="253" type="line"/>
+      <point x="469" y="253" type="line"/>
+      <point x="510" y="470" type="line"/>
+      <point x="446" y="470" type="line"/>
+      <point x="413" y="378" type="line"/>
+      <point x="409" y="358" type="line"/>
+    </contour>
+    <component base="C"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,1,0.4,0.2</string>
+    </dict>
+  </lib>
+</glyph>

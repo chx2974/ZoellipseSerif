@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Er" format="2">
+  <advance width="603"/>
+  <unicode hex="0420"/>
+  <anchor x="384" y="747" name="aboveUC"/>
+  <outline>
+    <component base="P"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,1,0.8,0.2</string>
+    </dict>
+  </lib>
+</glyph>

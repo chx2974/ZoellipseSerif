@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexmacron" format="2">
+  <anchor x="0" y="534" name="_aboveLC"/>
+  <outline>
+    <contour>
+      <point x="-141" y="568" type="line"/>
+      <point x="45" y="683" type="line"/>
+      <point x="-45" y="683" type="line"/>
+      <point x="141" y="568" type="line"/>
+      <point x="160" y="592" type="line"/>
+      <point x="18" y="727" type="line"/>
+      <point x="-18" y="727" type="line"/>
+      <point x="-160" y="592" type="line"/>
+    </contour>
+    <contour>
+      <point x="-129" y="762" type="line"/>
+      <point x="129" y="762" type="line"/>
+      <point x="129" y="819" type="line"/>
+      <point x="-129" y="819" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5,0.5,0.5,0.5</string>
+    </dict>
+  </lib>
+</glyph>

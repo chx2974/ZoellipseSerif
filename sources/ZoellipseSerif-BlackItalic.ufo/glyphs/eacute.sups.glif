@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eacute.sups" format="2">
+  <advance width="353"/>
+  <outline>
+    <contour>
+      <point x="296" y="838" type="line"/>
+      <point x="325" y="821" type="line"/>
+      <point x="396" y="887" type="line" smooth="yes"/>
+      <point x="420" y="910"/>
+      <point x="435" y="930"/>
+      <point x="435" y="953" type="curve" smooth="yes"/>
+      <point x="435" y="983"/>
+      <point x="417" y="996"/>
+      <point x="388" y="996" type="curve" smooth="yes"/>
+      <point x="365" y="996"/>
+      <point x="344" y="985"/>
+      <point x="329" y="940" type="curve" smooth="yes"/>
+    </contour>
+    <component base="e.sups"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,1,0.4,0.2</string>
+    </dict>
+  </lib>
+</glyph>

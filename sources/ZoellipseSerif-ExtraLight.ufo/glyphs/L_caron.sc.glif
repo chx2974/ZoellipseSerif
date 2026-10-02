@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Lcaron.sc" format="2">
+  <advance width="588"/>
+  <anchor x="195" y="618" name="aboveUC"/>
+  <anchor x="331" y="-22" name="belowLC"/>
+  <outline>
+    <component base="L.sc"/>
+    <component base="caron.alt" xOffset="450" yOffset="-129"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,1,0.8,0.2</string>
+    </dict>
+  </lib>
+</glyph>

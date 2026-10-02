@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Koppa" format="2">
+  <advance width="763"/>
+  <unicode hex="03D8"/>
+  <outline>
+    <contour>
+      <point x="377" y="-209" type="line"/>
+      <point x="415" y="-195" type="line"/>
+      <point x="407" y="15" type="line"/>
+      <point x="378" y="15" type="line"/>
+      <point x="368" y="-200" type="line"/>
+    </contour>
+    <component base="O"/>
+  </outline>
+</glyph>

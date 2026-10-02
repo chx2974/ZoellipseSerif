@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="triangularbullet" format="2">
+  <advance width="329"/>
+  <unicode hex="2023"/>
+  <outline>
+    <contour>
+      <point x="78" y="490" type="line"/>
+      <point x="58" y="479" type="line"/>
+      <point x="58" y="231" type="line"/>
+      <point x="78" y="220" type="line"/>
+      <point x="291" y="344" type="line"/>
+      <point x="291" y="367" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5,0.5,0.5,0.5</string>
+    </dict>
+  </lib>
+</glyph>

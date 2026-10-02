@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="te.srb" format="2">
+  <advance width="923"/>
+  <outline>
+    <contour>
+      <point x="281" y="667" type="line"/>
+      <point x="782" y="667" type="line"/>
+      <point x="800" y="753" type="line"/>
+      <point x="300" y="753" type="line"/>
+    </contour>
+    <component base="sha"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,1,0.4,0.2</string>
+    </dict>
+  </lib>
+</glyph>

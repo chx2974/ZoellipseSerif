@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="chedescender" format="2">
+  <advance width="681"/>
+  <unicode hex="04B7"/>
+  <outline>
+    <contour>
+      <point x="595" y="0" type="line"/>
+      <point x="519" y="62" type="line"/>
+      <point x="569" y="-172" type="line"/>
+      <point x="650" y="-172" type="line"/>
+      <point x="655" y="47" type="line"/>
+      <point x="497" y="84" type="line"/>
+      <point x="497" y="0" type="line"/>
+    </contour>
+    <component base="che"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,1,0.4,0.2</string>
+    </dict>
+  </lib>
+</glyph>

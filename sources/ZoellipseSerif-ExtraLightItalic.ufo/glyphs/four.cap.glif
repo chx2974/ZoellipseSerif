@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="four.cap" format="2">
+  <advance width="559"/>
+  <outline>
+    <contour>
+      <point x="311" y="-18" type="line"/>
+      <point x="368" y="-18" type="line"/>
+      <point x="522" y="730" type="line"/>
+      <point x="480" y="730" type="line"/>
+      <point x="40" y="242" type="line"/>
+      <point x="31" y="200" type="line"/>
+      <point x="535" y="200" type="line"/>
+      <point x="545" y="252" type="line"/>
+      <point x="86" y="252" type="line"/>
+      <point x="86" y="264" type="line"/>
+      <point x="77" y="235" type="line"/>
+      <point x="275" y="453" type="line"/>
+      <point x="471" y="673" type="line"/>
+      <point x="436" y="662" type="line"/>
+      <point x="451" y="662" type="line"/>
+      <point x="363" y="229" type="line"/>
+      <point x="360" y="217" type="line"/>
+    </contour>
+  </outline>
+</glyph>

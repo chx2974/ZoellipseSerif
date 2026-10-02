@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acutecmb.cap" format="2">
+  <anchor x="0" y="748" name="_aboveUC"/>
+  <anchor x="0" y="937" name="aboveUC"/>
+  <outline>
+    <contour>
+      <point x="-60" y="803" type="curve"/>
+      <point x="-46" y="783" type="line"/>
+      <point x="-3" y="808"/>
+      <point x="41" y="834"/>
+      <point x="84" y="858" type="curve" smooth="yes"/>
+      <point x="123" y="880"/>
+      <point x="136" y="893"/>
+      <point x="136" y="910" type="curve" smooth="yes"/>
+      <point x="136" y="928"/>
+      <point x="124" y="937"/>
+      <point x="105" y="937" type="curve" smooth="yes"/>
+      <point x="91" y="937"/>
+      <point x="76" y="928"/>
+      <point x="46" y="901" type="curve" smooth="yes"/>
+      <point x="12" y="871"/>
+      <point x="-24" y="837"/>
+    </contour>
+  </outline>
+</glyph>

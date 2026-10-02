@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Kadescender" format="2">
+  <advance width="765"/>
+  <unicode hex="049A"/>
+  <outline>
+    <contour>
+      <point x="597" y="0" type="line"/>
+      <point x="728" y="0" type="line"/>
+      <point x="648" y="62" type="line"/>
+      <point x="688" y="-205" type="line"/>
+      <point x="777" y="-205" type="line"/>
+      <point x="780" y="61" type="line"/>
+      <point x="597" y="77" type="line"/>
+    </contour>
+    <component base="Ka"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,1,0.4,0.2</string>
+    </dict>
+  </lib>
+</glyph>

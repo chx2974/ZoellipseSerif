@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="trianglewhiteup" format="2">
+  <advance width="637"/>
+  <unicode hex="25B3"/>
+  <outline>
+    <contour>
+      <point x="44" y="63" type="line"/>
+      <point x="50" y="54" type="line"/>
+      <point x="588" y="54" type="line"/>
+      <point x="594" y="63" type="line"/>
+      <point x="325" y="530" type="line"/>
+      <point x="312" y="530" type="line"/>
+    </contour>
+    <contour>
+      <point x="319" y="463" type="line"/>
+      <point x="533" y="92" type="line"/>
+      <point x="104" y="92" type="line"/>
+    </contour>
+  </outline>
+</glyph>

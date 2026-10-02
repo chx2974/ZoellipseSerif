@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gravecmb" format="2">
+  <unicode hex="0300"/>
+  <anchor x="45" y="547" name="_aboveLC"/>
+  <anchor x="110" y="855" name="aboveLC"/>
+  <outline>
+    <contour>
+      <point x="72" y="604" type="line"/>
+      <point x="58" y="657"/>
+      <point x="45" y="710"/>
+      <point x="29" y="762" type="curve" smooth="yes"/>
+      <point x="5" y="840"/>
+      <point x="-28" y="855"/>
+      <point x="-64" y="855" type="curve" smooth="yes"/>
+      <point x="-108" y="855"/>
+      <point x="-137" y="834"/>
+      <point x="-137" y="785" type="curve" smooth="yes"/>
+      <point x="-137" y="746"/>
+      <point x="-113" y="711"/>
+      <point x="-73" y="676" type="curve" smooth="yes"/>
+      <point x="-38" y="643"/>
+      <point x="1" y="614"/>
+      <point x="38" y="583" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

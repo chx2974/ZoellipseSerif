@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="egrave.sups" format="2">
+  <advance width="353"/>
+  <outline>
+    <contour>
+      <point x="323" y="838" type="line"/>
+      <point x="287" y="940" type="line" smooth="yes"/>
+      <point x="271" y="985"/>
+      <point x="250" y="996"/>
+      <point x="228" y="996" type="curve" smooth="yes"/>
+      <point x="200" y="996"/>
+      <point x="181" y="983"/>
+      <point x="181" y="954" type="curve" smooth="yes"/>
+      <point x="181" y="930"/>
+      <point x="197" y="909"/>
+      <point x="221" y="887" type="curve" smooth="yes"/>
+      <point x="294" y="821" type="line"/>
+    </contour>
+    <component base="e.sups"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,1,0.4,0.2</string>
+    </dict>
+  </lib>
+</glyph>

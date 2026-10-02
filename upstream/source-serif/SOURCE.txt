@@ -1,0 +1,6 @@
+Source Serif 4 upstream sources, unmodified (Text optical size only).
+Repository: https://github.com/adobe-fonts/source-serif
+Commit: b3980ade53bb3d023a0006076d05349236b309b1 (branch main, fetched 2026-10-02)
+Files: sparse checkout of Roman/ and Italic/ (Masters/text/, Instances/Text/*/*.fea,
+Instances/size.fea, designspaces, *.fea, GlyphOrderAndAliasDB), the family *.fea files,
+LICENSE.md, CONTRIBUTORS.md, README.md.

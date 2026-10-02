@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="v.sups" format="2">
+  <advance width="384"/>
+  <unicode hex="1D5B"/>
+  <outline>
+    <contour>
+      <point x="163" y="447" type="line"/>
+      <point x="219" y="447" type="line"/>
+      <point x="353" y="787" type="line"/>
+      <point x="302" y="787" type="line"/>
+      <point x="219" y="547" type="line"/>
+      <point x="214" y="532" type="line"/>
+      <point x="236" y="533" type="line"/>
+      <point x="142" y="787" type="line"/>
+      <point x="17" y="787" type="line"/>
+    </contour>
+    <contour>
+      <point x="-5" y="755" type="line"/>
+      <point x="66" y="741" type="line"/>
+      <point x="139" y="741" type="line"/>
+      <point x="203" y="755" type="line"/>
+      <point x="203" y="787" type="line"/>
+      <point x="-5" y="787" type="line"/>
+    </contour>
+    <contour>
+      <point x="244" y="755" type="line"/>
+      <point x="304" y="746" type="line"/>
+      <point x="320" y="746" type="line"/>
+      <point x="383" y="755" type="line"/>
+      <point x="383" y="787" type="line"/>
+      <point x="244" y="787" type="line"/>
+    </contour>
+  </outline>
+</glyph>

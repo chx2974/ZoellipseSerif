@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Es.sc" format="2">
+  <advance width="640"/>
+  <anchor x="383" y="618" name="aboveUC"/>
+  <outline>
+    <component base="C.sc"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,1,0.8,0.2</string>
+    </dict>
+  </lib>
+</glyph>

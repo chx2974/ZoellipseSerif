@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevegrave.cap" format="2">
+  <anchor x="83" y="725" name="_aboveUC"/>
+  <outline>
+    <contour>
+      <point x="93" y="753" type="curve" smooth="yes"/>
+      <point x="208" y="753"/>
+      <point x="263" y="820"/>
+      <point x="295" y="897" type="curve"/>
+      <point x="256" y="920" type="line"/>
+      <point x="210" y="870"/>
+      <point x="177" y="848"/>
+      <point x="106" y="848" type="curve" smooth="yes"/>
+      <point x="46" y="848"/>
+      <point x="-3" y="881"/>
+      <point x="-32" y="919" type="curve"/>
+      <point x="-74" y="901" type="line"/>
+      <point x="-60" y="815"/>
+      <point x="4" y="753"/>
+    </contour>
+    <contour>
+      <point x="145" y="895" type="line"/>
+      <point x="189" y="938" type="line"/>
+      <point x="123" y="1048" type="line" smooth="yes"/>
+      <point x="98" y="1090"/>
+      <point x="71" y="1100"/>
+      <point x="39" y="1100" type="curve" smooth="yes"/>
+      <point x="3" y="1100"/>
+      <point x="-18" y="1082"/>
+      <point x="-18" y="1042" type="curve" smooth="yes"/>
+      <point x="-18" y="1021"/>
+      <point x="-16" y="995"/>
+      <point x="29" y="967" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

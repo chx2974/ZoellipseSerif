@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresisbelowcmb" format="2">
+  <unicode hex="0324"/>
+  <anchor x="-64" y="-22" name="_belowLC"/>
+  <anchor x="-101" y="-191" name="belowLC"/>
+  <outline>
+    <component base="dieresiscmb" xOffset="-188" yOffset="-881"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,1,0.8,0.2</string>
+    </dict>
+  </lib>
+</glyph>

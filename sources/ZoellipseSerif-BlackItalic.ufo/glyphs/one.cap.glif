@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="one.cap" format="2">
+  <advance width="452"/>
+  <outline>
+    <contour>
+      <point x="4" y="0" type="line"/>
+      <point x="352" y="0" type="line"/>
+      <point x="364" y="55" type="line"/>
+      <point x="237" y="77" type="line"/>
+      <point x="154" y="77" type="line"/>
+      <point x="16" y="55" type="line"/>
+    </contour>
+    <contour>
+      <point x="85" y="0" type="line"/>
+      <point x="270" y="0" type="line"/>
+      <point x="283" y="72"/>
+      <point x="297" y="149"/>
+      <point x="312" y="222" type="curve" smooth="yes"/>
+      <point x="384" y="561" type="line"/>
+      <point x="420" y="713" type="line"/>
+      <point x="408" y="724" type="line"/>
+      <point x="133" y="664" type="line"/>
+      <point x="123" y="615" type="line"/>
+      <point x="244" y="615" type="line"/>
+      <point x="218" y="646" type="line"/>
+    </contour>
+  </outline>
+</glyph>

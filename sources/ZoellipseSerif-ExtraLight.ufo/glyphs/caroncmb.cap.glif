@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="caroncmb.cap" format="2">
+  <anchor x="0" y="748" name="_aboveUC"/>
+  <anchor x="0" y="936" name="aboveUC"/>
+  <outline>
+    <contour>
+      <point x="-122" y="936" type="line"/>
+      <point x="-141" y="918" type="line"/>
+      <point x="-26" y="793" type="line"/>
+      <point x="26" y="793" type="line"/>
+      <point x="141" y="918" type="line"/>
+      <point x="122" y="936" type="line"/>
+      <point x="-28" y="818" type="line"/>
+      <point x="28" y="818" type="line"/>
+    </contour>
+  </outline>
+</glyph>

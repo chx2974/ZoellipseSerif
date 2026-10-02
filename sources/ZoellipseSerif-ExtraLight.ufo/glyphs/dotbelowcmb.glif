@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotbelowcmb" format="2">
+  <unicode hex="0323"/>
+  <anchor x="0" y="-22" name="_belowLC"/>
+  <anchor x="0" y="-199" name="belowLC"/>
+  <outline>
+    <component base="dotaccentcmb" yOffset="-854"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,1,0.8,0.2</string>
+    </dict>
+  </lib>
+</glyph>

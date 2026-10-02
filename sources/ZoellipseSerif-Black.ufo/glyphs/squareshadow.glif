@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="squareshadow" format="2">
+  <advance width="1067"/>
+  <unicode hex="2752"/>
+  <outline>
+    <contour>
+      <point x="157" y="0" type="line"/>
+      <point x="157" y="647" type="line"/>
+      <point x="815" y="647" type="line"/>
+      <point x="815" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="54" y="-100" type="line"/>
+      <point x="877" y="-100" type="line"/>
+      <point x="1012" y="83" type="line"/>
+      <point x="1012" y="831" type="line"/>
+      <point x="242" y="831" type="line"/>
+      <point x="54" y="694" type="line"/>
+    </contour>
+  </outline>
+</glyph>

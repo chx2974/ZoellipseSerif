@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="T.sups" format="2">
+  <advance width="437"/>
+  <outline>
+    <contour>
+      <point x="110" y="461" type="line"/>
+      <point x="327" y="461" type="line"/>
+      <point x="327" y="495" type="line"/>
+      <point x="228" y="506" type="line"/>
+      <point x="209" y="506" type="line"/>
+      <point x="110" y="495" type="line"/>
+    </contour>
+    <contour>
+      <point x="179" y="461" type="line"/>
+      <point x="258" y="461" type="line"/>
+      <point x="258" y="912" type="line"/>
+      <point x="179" y="912" type="line"/>
+    </contour>
+    <contour>
+      <point x="18" y="786" type="line"/>
+      <point x="63" y="786" type="line"/>
+      <point x="84" y="912" type="line"/>
+      <point x="47" y="874" type="line"/>
+      <point x="390" y="874" type="line"/>
+      <point x="354" y="912" type="line"/>
+      <point x="374" y="786" type="line"/>
+      <point x="419" y="786" type="line"/>
+      <point x="413" y="912" type="line"/>
+      <point x="24" y="912" type="line"/>
+    </contour>
+  </outline>
+</glyph>

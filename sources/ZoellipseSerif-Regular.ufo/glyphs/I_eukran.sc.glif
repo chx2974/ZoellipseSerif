@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ieukran.sc" format="2">
+  <advance width="615"/>
+  <anchor x="368" y="614" name="aboveUC"/>
+  <outline>
+    <contour>
+      <point x="368" y="-14" type="curve" smooth="yes"/>
+      <point x="435" y="-14"/>
+      <point x="502" y="-1"/>
+      <point x="560" y="28" type="curve"/>
+      <point x="564" y="158" type="line"/>
+      <point x="500" y="158" type="line"/>
+      <point x="475" y="24" type="line"/>
+      <point x="541" y="41" type="line"/>
+      <point x="541" y="100" type="line"/>
+      <point x="487" y="55"/>
+      <point x="426" y="39"/>
+      <point x="374" y="39" type="curve" smooth="yes"/>
+      <point x="212" y="39"/>
+      <point x="166" y="71"/>
+      <point x="166" y="297" type="curve" smooth="yes"/>
+      <point x="166" y="521"/>
+      <point x="224" y="554"/>
+      <point x="381" y="554" type="curve" smooth="yes"/>
+      <point x="429" y="554"/>
+      <point x="475" y="538"/>
+      <point x="530" y="492" type="curve"/>
+      <point x="530" y="549" type="line"/>
+      <point x="465" y="565" type="line"/>
+      <point x="490" y="435" type="line"/>
+      <point x="555" y="435" type="line"/>
+      <point x="550" y="564" type="line"/>
+      <point x="486" y="601"/>
+      <point x="417" y="608"/>
+      <point x="368" y="608" type="curve" smooth="yes"/>
+      <point x="152" y="608"/>
+      <point x="63" y="507"/>
+      <point x="63" y="297" type="curve" smooth="yes"/>
+      <point x="63" y="79"/>
+      <point x="146" y="-14"/>
+    </contour>
+    <contour>
+      <point x="140" y="276" type="line"/>
+      <point x="365" y="276" type="line"/>
+      <point x="365" y="326" type="line"/>
+      <point x="140" y="326" type="line"/>
+    </contour>
+    <contour>
+      <point x="345" y="193" type="line"/>
+      <point x="393" y="193" type="line"/>
+      <point x="393" y="410" type="line"/>
+      <point x="345" y="410" type="line"/>
+      <point x="330" y="314" type="line"/>
+      <point x="330" y="297" type="line"/>
+    </contour>
+  </outline>
+</glyph>

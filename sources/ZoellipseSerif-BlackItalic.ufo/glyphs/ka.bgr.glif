@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ka.bgr" format="2">
+  <advance width="594"/>
+  <anchor x="393" y="778" name="aboveLC"/>
+  <outline>
+    <component base="k"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,1,0.8,0.2</string>
+    </dict>
+  </lib>
+</glyph>

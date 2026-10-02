@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevehoi" format="2">
+  <anchor x="0" y="546" name="_aboveLC"/>
+  <outline>
+    <component base="hoicmb.cap" yOffset="-16"/>
+    <component base="brevecmb.cap" yOffset="-157"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,1,0.8,0.2</string>
+    </dict>
+  </lib>
+</glyph>

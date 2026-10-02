@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Zhedescender.sc" format="2">
+  <advance width="984"/>
+  <outline>
+    <contour>
+      <point x="830" y="0" type="line"/>
+      <point x="948" y="0" type="line"/>
+      <point x="879" y="38" type="line"/>
+      <point x="905" y="-172" type="line"/>
+      <point x="997" y="-172" type="line"/>
+      <point x="998" y="57" type="line"/>
+      <point x="831" y="71" type="line"/>
+    </contour>
+    <component base="Zhe.sc"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,1,0.4,0.2</string>
+    </dict>
+  </lib>
+</glyph>

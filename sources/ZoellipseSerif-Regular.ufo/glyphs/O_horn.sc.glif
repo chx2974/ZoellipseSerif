@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ohorn.sc" format="2">
+  <advance width="710"/>
+  <anchor x="355" y="614" name="aboveUC"/>
+  <anchor x="355" y="-22" name="belowLC"/>
+  <outline>
+    <component base="O.sc"/>
+    <component base="horncmb" xOffset="544" yOffset="-29"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,1,0.8,0.2</string>
+    </dict>
+  </lib>
+</glyph>

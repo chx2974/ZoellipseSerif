@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="V.sups" format="2">
+  <advance width="481"/>
+  <outline>
+    <contour>
+      <point x="14" y="877" type="line"/>
+      <point x="107" y="867" type="line"/>
+      <point x="124" y="867" type="line"/>
+      <point x="213" y="877" type="line"/>
+      <point x="213" y="912" type="line"/>
+      <point x="14" y="912" type="line"/>
+    </contour>
+    <contour>
+      <point x="311" y="877" type="line"/>
+      <point x="382" y="867" type="line"/>
+      <point x="396" y="867" type="line"/>
+      <point x="470" y="877" type="line"/>
+      <point x="470" y="912" type="line"/>
+      <point x="311" y="912" type="line"/>
+    </contour>
+    <contour>
+      <point x="227" y="458" type="line"/>
+      <point x="264" y="458" type="line"/>
+      <point x="425" y="912" type="line"/>
+      <point x="383" y="912" type="line"/>
+      <point x="258" y="555" type="line"/>
+      <point x="255" y="546" type="line"/>
+      <point x="269" y="546" type="line"/>
+      <point x="133" y="912" type="line"/>
+      <point x="52" y="912" type="line"/>
+    </contour>
+  </outline>
+</glyph>

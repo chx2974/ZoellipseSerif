@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Q.sc" format="2">
+  <advance width="710"/>
+  <anchor x="355" y="614" name="aboveUC"/>
+  <outline>
+    <contour>
+      <point x="493" y="-197" type="curve" smooth="yes"/>
+      <point x="534" y="-197"/>
+      <point x="579" y="-188"/>
+      <point x="613" y="-168" type="curve"/>
+      <point x="601" y="-129" type="line"/>
+      <point x="572" y="-136"/>
+      <point x="546" y="-137"/>
+      <point x="531" y="-137" type="curve" smooth="yes"/>
+      <point x="444" y="-137"/>
+      <point x="393" y="-83"/>
+      <point x="399" y="21" type="curve"/>
+      <point x="301" y="38" type="line"/>
+      <point x="301" y="-2" type="line" smooth="yes"/>
+      <point x="301" y="-132"/>
+      <point x="351" y="-197"/>
+    </contour>
+    <component base="O.sc"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,1,0.4,0.2</string>
+    </dict>
+  </lib>
+</glyph>

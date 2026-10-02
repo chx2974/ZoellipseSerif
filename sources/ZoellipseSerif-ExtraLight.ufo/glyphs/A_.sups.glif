@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="A.sups" format="2">
+  <advance width="468"/>
+  <outline>
+    <contour>
+      <point x="9" y="462" type="line"/>
+      <point x="159" y="462" type="line"/>
+      <point x="159" y="489" type="line"/>
+      <point x="87" y="498" type="line"/>
+      <point x="75" y="498" type="line"/>
+      <point x="9" y="489" type="line"/>
+    </contour>
+    <contour>
+      <point x="55" y="462" type="line"/>
+      <point x="86" y="462" type="line"/>
+      <point x="223" y="859" type="line"/>
+      <point x="227" y="869" type="line"/>
+      <point x="210" y="869" type="line"/>
+      <point x="354" y="462" type="line"/>
+      <point x="411" y="462" type="line"/>
+      <point x="248" y="914" type="line"/>
+      <point x="215" y="914" type="line"/>
+    </contour>
+    <contour>
+      <point x="122" y="609" type="line"/>
+      <point x="332" y="609" type="line"/>
+      <point x="323" y="638" type="line"/>
+      <point x="131" y="638" type="line"/>
+    </contour>
+    <contour>
+      <point x="273" y="462" type="line"/>
+      <point x="460" y="462" type="line"/>
+      <point x="460" y="489" type="line"/>
+      <point x="375" y="498" type="line"/>
+      <point x="359" y="498" type="line"/>
+      <point x="273" y="489" type="line"/>
+    </contour>
+  </outline>
+</glyph>

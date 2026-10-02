@@ -1,0 +1,37 @@
+/*
+  Zoellipse Serif v1.000, SIL Open Font License 1.1
+  Copyright 2026 The Zoellipse Serif Project Authors (https://github.com/chx2974/ZoellipseSerif)
+  Copyright 2014-2023 Adobe (http://www.adobe.com/), with Reserved Font Name 'Source'
+
+  Usage (paths are relative to this file; adjust to where you put the fonts):
+
+    <link rel="stylesheet" href="css/zoellipse-serif.css">
+
+    body   { font-family: "Zoellipse Serif", Georgia, serif; font-weight: 400; }
+    b      { font-weight: 700; }        -- any value from 200 to 900
+    em     { font-style: italic; }      -- uses ZoellipseSerif-Italic[wght]
+
+  Mixes with Zoellipse at the same font-size and font-weight (same cap height,
+  x-height and stem weights):
+    blockquote { font-family: "Zoellipse Serif", serif; }
+  Small caps, oldstyle and tabular figures:
+    .sc { font-variant-caps: small-caps; }  .os { font-variant-numeric: oldstyle-nums; }
+*/
+
+@font-face {
+  font-family: "Zoellipse Serif";
+  src: url("../fonts/variable/ZoellipseSerif%5Bwght%5D.woff2") format("woff2"),
+       url("../fonts/variable/ZoellipseSerif%5Bwght%5D.ttf") format("truetype");
+  font-weight: 200 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Zoellipse Serif";
+  src: url("../fonts/variable/ZoellipseSerif-Italic%5Bwght%5D.woff2") format("woff2"),
+       url("../fonts/variable/ZoellipseSerif-Italic%5Bwght%5D.ttf") format("truetype");
+  font-weight: 200 900;
+  font-style: italic;
+  font-display: swap;
+}

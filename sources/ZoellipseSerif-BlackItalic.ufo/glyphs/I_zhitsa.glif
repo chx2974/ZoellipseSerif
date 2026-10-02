@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Izhitsa" format="2">
+  <advance width="678"/>
+  <unicode hex="0474"/>
+  <anchor x="455" y="725" name="aboveUC"/>
+  <outline>
+    <contour>
+      <point x="205" y="0" type="line"/>
+      <point x="319" y="0" type="line"/>
+      <point x="519" y="407" type="line" smooth="yes"/>
+      <point x="556" y="482"/>
+      <point x="583" y="544"/>
+      <point x="636" y="609" type="curve"/>
+      <point x="668" y="642" type="line"/>
+      <point x="598" y="661" type="line"/>
+      <point x="610" y="620" type="line" smooth="yes"/>
+      <point x="620" y="583"/>
+      <point x="646" y="545"/>
+      <point x="687" y="545" type="curve" smooth="yes"/>
+      <point x="738" y="545"/>
+      <point x="768" y="575"/>
+      <point x="780" y="641" type="curve"/>
+      <point x="769" y="695"/>
+      <point x="735" y="725"/>
+      <point x="688" y="725" type="curve" smooth="yes"/>
+      <point x="620" y="725"/>
+      <point x="574" y="678"/>
+      <point x="529" y="581" type="curve" smooth="yes"/>
+      <point x="345" y="187" type="line"/>
+      <point x="328" y="150" type="line"/>
+      <point x="374" y="150" type="line"/>
+      <point x="294" y="704" type="line"/>
+      <point x="85" y="704" type="line"/>
+    </contour>
+    <contour>
+      <point x="42" y="640" type="line"/>
+      <point x="192" y="624" type="line"/>
+      <point x="236" y="624" type="line"/>
+      <point x="392" y="645" type="line"/>
+      <point x="404" y="704" type="line"/>
+      <point x="55" y="704" type="line"/>
+    </contour>
+  </outline>
+</glyph>

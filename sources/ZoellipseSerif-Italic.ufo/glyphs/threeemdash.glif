@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="threeemdash" format="2">
+  <advance width="2468"/>
+  <unicode hex="2E3B"/>
+  <outline>
+    <contour>
+      <point x="36" y="243" type="line"/>
+      <point x="2416" y="243" type="line"/>
+      <point x="2416" y="316" type="line"/>
+      <point x="36" y="316" type="line"/>
+    </contour>
+  </outline>
+</glyph>

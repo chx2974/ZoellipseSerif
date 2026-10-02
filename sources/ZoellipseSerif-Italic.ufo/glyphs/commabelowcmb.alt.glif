@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="commabelowcmb.alt" format="2">
+  <anchor x="46" y="535" name="_aboveLC"/>
+  <outline>
+    <component base="commabelowcmb" xScale="-1.0" yScale="-1.0" xOffset="-10" yOffset="561"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5,0.5,0.5,0.5</string>
+    </dict>
+  </lib>
+</glyph>

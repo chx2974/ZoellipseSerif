@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tenge" format="2">
+  <advance width="535"/>
+  <unicode hex="20B8"/>
+  <outline>
+    <contour>
+      <point x="8" y="407" type="line"/>
+      <point x="51" y="407" type="line"/>
+      <point x="77" y="585" type="line"/>
+      <point x="46" y="548" type="line"/>
+      <point x="489" y="548" type="line"/>
+      <point x="457" y="585" type="line"/>
+      <point x="483" y="407" type="line"/>
+      <point x="526" y="407" type="line"/>
+      <point x="517" y="585" type="line"/>
+      <point x="17" y="585" type="line"/>
+    </contour>
+    <contour>
+      <point x="233" y="0" type="curve"/>
+      <point x="300" y="0" type="line"/>
+      <point x="298" y="83"/>
+      <point x="297" y="168"/>
+      <point x="297" y="252" type="curve" smooth="yes"/>
+      <point x="297" y="314" type="line" smooth="yes"/>
+      <point x="297" y="404"/>
+      <point x="297" y="497"/>
+      <point x="300" y="585" type="curve"/>
+      <point x="233" y="585" type="line"/>
+      <point x="236" y="496"/>
+      <point x="236" y="404"/>
+      <point x="236" y="314" type="curve" smooth="yes"/>
+      <point x="236" y="252" type="line" smooth="yes"/>
+      <point x="236" y="167"/>
+      <point x="235" y="82"/>
+    </contour>
+    <contour>
+      <point x="118" y="0" type="line"/>
+      <point x="415" y="0" type="line"/>
+      <point x="415" y="32" type="line"/>
+      <point x="277" y="43" type="line"/>
+      <point x="258" y="43" type="line"/>
+      <point x="118" y="32" type="line"/>
+    </contour>
+    <contour>
+      <point x="16" y="668" type="line"/>
+      <point x="518" y="668" type="line"/>
+      <point x="518" y="708" type="line"/>
+      <point x="16" y="708" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,10 @@
+include (../../../../familyTables.fea);
+
+table name {
+	include (../../../../familynameIDs.fea);
+    include (../../../../familynameIDsVar.fea);
+    include (../../../nameIDs.fea);
+} name;
+
+include (../../../familyGSUB.fea);
+include (../../../STAT.fea);

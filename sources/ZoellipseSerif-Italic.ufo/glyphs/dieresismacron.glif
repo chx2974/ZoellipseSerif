@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresismacron" format="2">
+  <anchor x="46" y="535" name="_aboveLC"/>
+  <outline>
+    <contour>
+      <point x="-44" y="614" type="curve" smooth="yes"/>
+      <point x="-3" y="614"/>
+      <point x="21" y="633"/>
+      <point x="21" y="681" type="curve" smooth="yes"/>
+      <point x="21" y="716"/>
+      <point x="3" y="732"/>
+      <point x="-32" y="732" type="curve" smooth="yes"/>
+      <point x="-72" y="732"/>
+      <point x="-95" y="714"/>
+      <point x="-95" y="666" type="curve" smooth="yes"/>
+      <point x="-95" y="628"/>
+      <point x="-78" y="614"/>
+    </contour>
+    <contour>
+      <point x="184" y="614" type="curve" smooth="yes"/>
+      <point x="225" y="614"/>
+      <point x="247" y="633"/>
+      <point x="247" y="681" type="curve" smooth="yes"/>
+      <point x="247" y="716"/>
+      <point x="232" y="732"/>
+      <point x="196" y="732" type="curve" smooth="yes"/>
+      <point x="156" y="732"/>
+      <point x="133" y="714"/>
+      <point x="133" y="666" type="curve" smooth="yes"/>
+      <point x="133" y="628"/>
+      <point x="150" y="614"/>
+    </contour>
+    <component base="macroncmb" xOffset="27" yOffset="140"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,1,0.4,0.2</string>
+    </dict>
+  </lib>
+</glyph>

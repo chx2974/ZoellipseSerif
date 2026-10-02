@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dottedCircle" format="2">
+  <advance width="592"/>
+  <unicode hex="25CC"/>
+  <anchor x="297" y="548" name="aboveLC"/>
+  <anchor x="297" y="-22" name="belowLC"/>
+  <anchor x="426" y="427" name="hornLC"/>
+  <anchor x="379" y="0" name="ogonek"/>
+  <anchor x="329.5" y="0" name="baseLC"/>
+  <outline>
+    <component base="period" xScale="0.3796078431372549" yScale="0.3796078431372549" xOffset="235" yOffset="462"/>
+    <component base="period" xScale="0.3796078431372549" yScale="0.3796078431372549" xOffset="346" yOffset="432"/>
+    <component base="period" xScale="0.3796078431372549" yScale="0.3796078431372549" xOffset="427" yOffset="351"/>
+    <component base="period" xScale="0.3796078431372549" yScale="0.3796078431372549" xOffset="456" yOffset="240"/>
+    <component base="period" xScale="0.3796078431372549" yScale="0.3796078431372549" xOffset="427" yOffset="129"/>
+    <component base="period" xScale="0.3796078431372549" yScale="0.3796078431372549" xOffset="346" yOffset="48"/>
+    <component base="period" xScale="0.3796078431372549" yScale="0.3796078431372549" xOffset="235" yOffset="19"/>
+    <component base="period" xScale="0.3796078431372549" yScale="0.3796078431372549" xOffset="124" yOffset="48"/>
+    <component base="period" xScale="0.3796078431372549" yScale="0.3796078431372549" xOffset="43" yOffset="129"/>
+    <component base="period" xScale="0.3796078431372549" yScale="0.3796078431372549" xOffset="13" yOffset="240"/>
+    <component base="period" xScale="0.3796078431372549" yScale="0.3796078431372549" xOffset="43" yOffset="351"/>
+    <component base="period" xScale="0.3796078431372549" yScale="0.3796078431372549" xOffset="124" yOffset="432"/>
+  </outline>
+</glyph>

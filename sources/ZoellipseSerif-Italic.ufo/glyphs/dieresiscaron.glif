@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresiscaron" format="2">
+  <anchor x="46" y="535" name="_aboveLC"/>
+  <outline>
+    <contour>
+      <point x="-44" y="614" type="curve" smooth="yes"/>
+      <point x="-3" y="614"/>
+      <point x="21" y="633"/>
+      <point x="21" y="681" type="curve" smooth="yes"/>
+      <point x="21" y="716"/>
+      <point x="3" y="732"/>
+      <point x="-32" y="732" type="curve" smooth="yes"/>
+      <point x="-72" y="732"/>
+      <point x="-95" y="714"/>
+      <point x="-95" y="666" type="curve" smooth="yes"/>
+      <point x="-95" y="628"/>
+      <point x="-78" y="614"/>
+    </contour>
+    <contour>
+      <point x="59" y="756" type="line"/>
+      <point x="121" y="756" type="line"/>
+      <point x="267" y="890" type="line"/>
+      <point x="246" y="912" type="line"/>
+      <point x="56" y="791" type="line"/>
+      <point x="128" y="791" type="line"/>
+      <point x="-20" y="912" type="line"/>
+      <point x="-50" y="890" type="line"/>
+    </contour>
+    <contour>
+      <point x="184" y="614" type="curve" smooth="yes"/>
+      <point x="225" y="614"/>
+      <point x="247" y="633"/>
+      <point x="247" y="681" type="curve" smooth="yes"/>
+      <point x="247" y="716"/>
+      <point x="232" y="732"/>
+      <point x="196" y="732" type="curve" smooth="yes"/>
+      <point x="156" y="732"/>
+      <point x="133" y="714"/>
+      <point x="133" y="666" type="curve" smooth="yes"/>
+      <point x="133" y="628"/>
+      <point x="150" y="614"/>
+    </contour>
+  </outline>
+</glyph>

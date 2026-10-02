@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ustraightstroke" format="2">
+  <advance width="671"/>
+  <unicode hex="04B0"/>
+  <anchor x="410" y="727" name="aboveUC"/>
+  <outline>
+    <contour>
+      <point x="578" y="250" type="line"/>
+      <point x="578" y="316" type="line"/>
+      <point x="84" y="316" type="line"/>
+      <point x="84" y="250" type="line"/>
+    </contour>
+    <component base="Ustraight"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,1,0.4,0.2</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevehoi.cap" format="2">
+  <anchor x="91" y="743" name="_aboveUC"/>
+  <outline>
+    <contour>
+      <point x="95" y="785" type="curve" smooth="yes"/>
+      <point x="189" y="785"/>
+      <point x="251" y="857"/>
+      <point x="274" y="923" type="curve"/>
+      <point x="240" y="937" type="line"/>
+      <point x="210" y="888"/>
+      <point x="166" y="852"/>
+      <point x="107" y="852" type="curve" smooth="yes"/>
+      <point x="47" y="852"/>
+      <point x="2" y="886"/>
+      <point x="-19" y="936" type="curve"/>
+      <point x="-49" y="921" type="line"/>
+      <point x="-34" y="840"/>
+      <point x="15" y="785"/>
+    </contour>
+    <contour>
+      <point x="85" y="889" type="line"/>
+      <point x="151" y="897"/>
+      <point x="199" y="928"/>
+      <point x="199" y="984" type="curve" smooth="yes"/>
+      <point x="199" y="1030"/>
+      <point x="164" y="1064"/>
+      <point x="74" y="1071" type="curve"/>
+      <point x="55" y="994" type="line"/>
+      <point x="115" y="989"/>
+      <point x="140" y="978"/>
+      <point x="140" y="961" type="curve" smooth="yes"/>
+      <point x="140" y="942"/>
+      <point x="121" y="932"/>
+      <point x="80" y="924" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="koppa" format="2">
+  <advance width="518"/>
+  <unicode hex="03D9"/>
+  <anchor x="328" y="546" name="aboveLC"/>
+  <outline>
+    <contour>
+      <point x="153" y="-205" type="line"/>
+      <point x="220" y="-191" type="line"/>
+      <point x="251" y="8" type="line"/>
+      <point x="205" y="6" type="line"/>
+      <point x="146" y="-196" type="line"/>
+    </contour>
+    <component base="omicron"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,1,0.4,0.2</string>
+    </dict>
+  </lib>
+</glyph>

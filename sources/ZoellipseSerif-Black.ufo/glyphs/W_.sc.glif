@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="W.sc" format="2">
+  <advance width="977"/>
+  <anchor x="541" y="601" name="aboveUC"/>
+  <anchor x="490" y="-22" name="belowLC"/>
+  <outline>
+    <contour>
+      <point x="152" y="509" type="line"/>
+      <point x="188" y="509" type="line"/>
+      <point x="326" y="522" type="line"/>
+      <point x="326" y="579" type="line"/>
+      <point x="10" y="579" type="line"/>
+      <point x="10" y="522" type="line"/>
+    </contour>
+    <contour>
+      <point x="241" y="-1" type="line"/>
+      <point x="354" y="-1" type="line"/>
+      <point x="491" y="400" type="line"/>
+      <point x="495" y="413" type="line"/>
+      <point x="474" y="413" type="line"/>
+      <point x="614" y="-1" type="line"/>
+      <point x="728" y="-1" type="line"/>
+      <point x="926" y="579" type="line"/>
+      <point x="857" y="579" type="line"/>
+      <point x="719" y="160" type="line"/>
+      <point x="715" y="147" type="line"/>
+      <point x="734" y="146" type="line"/>
+      <point x="600" y="579" type="line"/>
+      <point x="481" y="579" type="line"/>
+      <point x="347" y="167" type="line"/>
+      <point x="342" y="152" type="line"/>
+      <point x="361" y="152" type="line"/>
+      <point x="241" y="579" type="line"/>
+      <point x="46" y="579" type="line"/>
+    </contour>
+    <contour>
+      <point x="521" y="509" type="line"/>
+      <point x="579" y="509" type="line"/>
+      <point x="702" y="522" type="line"/>
+      <point x="702" y="579" type="line"/>
+      <point x="399" y="579" type="line"/>
+      <point x="399" y="522" type="line"/>
+    </contour>
+    <contour>
+      <point x="864" y="509" type="line"/>
+      <point x="891" y="509" type="line"/>
+      <point x="979" y="522" type="line"/>
+      <point x="979" y="579" type="line"/>
+      <point x="774" y="579" type="line"/>
+      <point x="774" y="522" type="line"/>
+    </contour>
+  </outline>
+</glyph>

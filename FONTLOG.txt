@@ -1,0 +1,75 @@
+FONTLOG for Zoellipse Serif
+===========================
+
+This file provides detailed information on the Zoellipse Serif font software. It
+should be distributed along with the fonts and any derivative works.
+
+Basic Font Information
+----------------------
+
+Zoellipse Serif is a serif variable typeface, a Modified Version of Source Serif
+4 (Text optical size). It is built in code (Python, fontmake + fontTools) from
+the unmodified Source Serif 4 UFO masters. It ships as two variable fonts,
+upright and italic, each with a weight axis (wght 200-900) and eight named
+instances: ExtraLight 200, Light 300, Regular 400, Medium 500, SemiBold 600,
+Bold 700, ExtraBold 800, Black 900. The two fonts are linked by the STAT "ital"
+axis.
+
+Version: 1.000 (first release).
+Designer: Charlie Champanhet
+Copyright: The Zoellipse Serif Project Authors and Adobe (see AUTHORS.txt)
+License: SIL Open Font License 1.1 (see OFL.txt). Source Serif 4 carries the
+  Reserved Font Name "Source", which this Modified Version does not use; the
+  new parts add no Reserved Font Name.
+
+Changes compared to Source Serif 4
+----------------------------------
+
+1. Curves get a slight superellipse feel: the handles of quarter curves
+   (horizontal to vertical) are lengthened the same way as in Zoellipse
+   (superellipse exponent 2.4).
+2. Everything is scaled by 1.079 inside the em so the cap height (0.723 em)
+   equals Zoellipse's; the lowercase is raised 3% so the x-height (0.528 em)
+   equals Zoellipse's. Line height 1.2 em.
+3. Named weights are placed where the n stem equals Zoellipse's at that
+   weight (upright and italic separately).
+4. Only the Text optical size is included (no opsz axis).
+5. Archaic Greek capitals added (Source Serif has only the lowercase):
+   U+03CF kai, U+03D8 koppa, U+03DA stigma, U+03DC digamma, U+03E0 sampi,
+   built from K, O, F and the lowercase forms.
+6. Build fixes: Greek theta contour direction, a name for the italic's ss03,
+   dotted circle (U+25CC), gasp/prep/meta tables.
+7. The font family is renamed to Zoellipse Serif.
+
+Everything else is Source Serif 4: Latin, Greek and Cyrillic, small caps,
+oldstyle and tabular figures, fractions, superiors and inferiors, stylistic
+sets, kerning.
+
+ChangeLog
+---------
+
+2026-10-02 (v1.000) First release: Modified Version of Source Serif 4 (Text)
+  with superellipse-style curves, scaled and x-height raised to Zoellipse's cap
+  height and x-height, weights matched to Zoellipse, archaic Greek capitals and dotted
+  circle added, renamed Zoellipse Serif.
+
+Acknowledgements
+----------------
+
+If you make modifications, be sure to add your name (N), email (E), web-address
+(W) and description (D). This list is in alphabetical order.
+
+N: Adobe
+E: (not listed)
+W: https://github.com/adobe-fonts/source-serif
+D: Source Serif 4, the font Zoellipse Serif is a Modified Version of.
+
+N: Charlie Champanhet
+E: (not listed)
+W: (not listed)
+D: Zoellipse Serif modifications (curves, sizing, weights, build code).
+
+N: Frank Grießhammer
+E: (not listed)
+W: https://github.com/adobe-fonts/source-serif
+D: Designer of Source Serif.

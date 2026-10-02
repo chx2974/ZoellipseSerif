@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="idieresis.narrow" format="2">
+  <advance width="351"/>
+  <outline>
+    <contour>
+      <point x="180" y="644" type="curve" smooth="yes"/>
+      <point x="234" y="644"/>
+      <point x="263" y="671"/>
+      <point x="263" y="743" type="curve" smooth="yes"/>
+      <point x="263" y="798"/>
+      <point x="243" y="816"/>
+      <point x="197" y="816" type="curve" smooth="yes"/>
+      <point x="143" y="816"/>
+      <point x="113" y="789"/>
+      <point x="113" y="717" type="curve" smooth="yes"/>
+      <point x="113" y="660"/>
+      <point x="136" y="644"/>
+    </contour>
+    <contour>
+      <point x="355" y="644" type="curve" smooth="yes"/>
+      <point x="403" y="644"/>
+      <point x="438" y="671"/>
+      <point x="438" y="743" type="curve" smooth="yes"/>
+      <point x="438" y="798"/>
+      <point x="423" y="816"/>
+      <point x="372" y="816" type="curve" smooth="yes"/>
+      <point x="318" y="816"/>
+      <point x="288" y="789"/>
+      <point x="288" y="717" type="curve" smooth="yes"/>
+      <point x="288" y="660"/>
+      <point x="311" y="644"/>
+    </contour>
+    <component base="dotlessi"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,1,0.4,0.2</string>
+    </dict>
+  </lib>
+</glyph>

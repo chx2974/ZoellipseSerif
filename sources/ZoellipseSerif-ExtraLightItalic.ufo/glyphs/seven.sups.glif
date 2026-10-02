@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="seven.sups" format="2">
+  <advance width="366"/>
+  <unicode hex="2077"/>
+  <outline>
+    <contour>
+      <point x="131" y="462" type="line"/>
+      <point x="187" y="462" type="line"/>
+      <point x="430" y="853" type="line"/>
+      <point x="436" y="887" type="line"/>
+      <point x="166" y="887" type="line"/>
+      <point x="155" y="835" type="line"/>
+      <point x="401" y="835" type="line"/>
+      <point x="401" y="858" type="line"/>
+      <point x="127" y="471" type="line"/>
+    </contour>
+  </outline>
+</glyph>

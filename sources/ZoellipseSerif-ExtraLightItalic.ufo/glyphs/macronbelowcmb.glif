@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="macronbelowcmb" format="2">
+  <unicode hex="0331"/>
+  <anchor x="-64" y="-22" name="_belowLC"/>
+  <anchor x="-95" y="-167" name="belowLC"/>
+  <outline>
+    <component base="macroncmb" xOffset="-171" yOffset="-832"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,1,0.8,0.2</string>
+    </dict>
+  </lib>
+</glyph>

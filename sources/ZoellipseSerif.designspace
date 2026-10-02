@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="5.0">
+  <axes>
+    <axis tag="wght" name="Weight" minimum="200" maximum="900" default="400">
+      <map input="200" output="200"/>
+      <map input="300" output="298"/>
+      <map input="400" output="390.2"/>
+      <map input="500" output="469"/>
+      <map input="600" output="547.7"/>
+      <map input="700" output="678.4"/>
+      <map input="800" output="809"/>
+      <map input="900" output="939.7"/>
+    </axis>
+  </axes>
+  <sources>
+    <source filename="ZoellipseSerif-ExtraLight.ufo" familyname="Zoellipse Serif" stylename="ExtraLight">
+      <location>
+        <dimension name="Weight" xvalue="200"/>
+      </location>
+    </source>
+    <source filename="ZoellipseSerif-Regular.ufo" familyname="Zoellipse Serif" stylename="Regular">
+      <location>
+        <dimension name="Weight" xvalue="390.2"/>
+      </location>
+    </source>
+    <source filename="ZoellipseSerif-Black.ufo" familyname="Zoellipse Serif" stylename="Black">
+      <location>
+        <dimension name="Weight" xvalue="939.7"/>
+      </location>
+    </source>
+  </sources>
+  <instances>
+    <instance familyname="Zoellipse Serif" stylename="ExtraLight" postscriptfontname="ZoellipseSerif-ExtraLight">
+      <location>
+        <dimension name="Weight" xvalue="200"/>
+      </location>
+    </instance>
+    <instance familyname="Zoellipse Serif" stylename="Light" postscriptfontname="ZoellipseSerif-Light">
+      <location>
+        <dimension name="Weight" xvalue="298"/>
+      </location>
+    </instance>
+    <instance familyname="Zoellipse Serif" stylename="Regular" postscriptfontname="ZoellipseSerif-Regular">
+      <location>
+        <dimension name="Weight" xvalue="390.2"/>
+      </location>
+    </instance>
+    <instance familyname="Zoellipse Serif" stylename="Medium" postscriptfontname="ZoellipseSerif-Medium">
+      <location>
+        <dimension name="Weight" xvalue="469"/>
+      </location>
+    </instance>
+    <instance familyname="Zoellipse Serif" stylename="SemiBold" postscriptfontname="ZoellipseSerif-SemiBold">
+      <location>
+        <dimension name="Weight" xvalue="547.7"/>
+      </location>
+    </instance>
+    <instance familyname="Zoellipse Serif" stylename="Bold" postscriptfontname="ZoellipseSerif-Bold">
+      <location>
+        <dimension name="Weight" xvalue="678.4"/>
+      </location>
+    </instance>
+    <instance familyname="Zoellipse Serif" stylename="ExtraBold" postscriptfontname="ZoellipseSerif-ExtraBold">
+      <location>
+        <dimension name="Weight" xvalue="809"/>
+      </location>
+    </instance>
+    <instance familyname="Zoellipse Serif" stylename="Black" postscriptfontname="ZoellipseSerif-Black">
+      <location>
+        <dimension name="Weight" xvalue="939.7"/>
+      </location>
+    </instance>
+  </instances>
+</designspace>

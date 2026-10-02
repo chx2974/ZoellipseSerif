@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="F.sups" format="2">
+  <advance width="410"/>
+  <outline>
+    <contour>
+      <point x="353" y="800" type="line"/>
+      <point x="387" y="800" type="line"/>
+      <point x="380" y="914" type="line"/>
+      <point x="132" y="914" type="line"/>
+      <point x="132" y="884" type="line"/>
+      <point x="361" y="884" type="line"/>
+      <point x="335" y="914" type="line"/>
+    </contour>
+    <contour>
+      <point x="37" y="462" type="line"/>
+      <point x="232" y="462" type="line"/>
+      <point x="232" y="489" type="line"/>
+      <point x="140" y="498" type="line"/>
+      <point x="125" y="498" type="line"/>
+      <point x="37" y="489" type="line"/>
+    </contour>
+    <contour>
+      <point x="285" y="614" type="line"/>
+      <point x="311" y="614" type="line"/>
+      <point x="311" y="768" type="line"/>
+      <point x="285" y="768" type="line"/>
+      <point x="275" y="701" type="line"/>
+      <point x="275" y="683" type="line"/>
+    </contour>
+    <contour>
+      <point x="37" y="887" type="line"/>
+      <point x="125" y="879" type="line"/>
+      <point x="132" y="879" type="line"/>
+      <point x="132" y="914" type="line"/>
+      <point x="37" y="914" type="line"/>
+    </contour>
+    <contour>
+      <point x="104" y="462" type="line"/>
+      <point x="159" y="462" type="line"/>
+      <point x="159" y="914" type="line"/>
+      <point x="104" y="914" type="line"/>
+    </contour>
+    <contour>
+      <point x="132" y="678" type="line"/>
+      <point x="292" y="678" type="line"/>
+      <point x="292" y="709" type="line"/>
+      <point x="132" y="709" type="line"/>
+    </contour>
+  </outline>
+</glyph>

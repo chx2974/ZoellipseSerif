@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Hadescender.sc" format="2">
+  <advance width="622"/>
+  <outline>
+    <contour>
+      <point x="510" y="0" type="line"/>
+      <point x="575" y="0" type="line"/>
+      <point x="531" y="21" type="line"/>
+      <point x="556" y="-162" type="line"/>
+      <point x="616" y="-162" type="line"/>
+      <point x="623" y="43" type="line"/>
+      <point x="510" y="56" type="line"/>
+    </contour>
+    <component base="Ha.sc"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,1,0.4,0.2</string>
+    </dict>
+  </lib>
+</glyph>

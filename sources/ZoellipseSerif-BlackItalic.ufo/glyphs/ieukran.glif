@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ieukran" format="2">
+  <advance width="532"/>
+  <unicode hex="0454"/>
+  <anchor x="361" y="562" name="aboveLC"/>
+  <outline>
+    <contour>
+      <point x="146" y="257" type="line"/>
+      <point x="391" y="248" type="line"/>
+      <point x="404" y="314" type="line"/>
+      <point x="156" y="304" type="line"/>
+    </contour>
+    <component base="es"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,1,0.4,0.2</string>
+    </dict>
+  </lib>
+</glyph>

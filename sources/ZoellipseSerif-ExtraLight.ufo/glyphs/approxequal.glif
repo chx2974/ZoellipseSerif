@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="approxequal" format="2">
+  <advance width="572"/>
+  <unicode hex="2248"/>
+  <outline>
+    <component base="asciitilde" yOffset="-141"/>
+    <component base="asciitilde" yOffset="108"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,1,0.8,0.2</string>
+    </dict>
+  </lib>
+</glyph>

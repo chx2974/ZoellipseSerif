@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="I.sups" format="2">
+  <advance width="289"/>
+  <outline>
+    <contour>
+      <point x="27" y="449" type="line"/>
+      <point x="262" y="449" type="line"/>
+      <point x="262" y="489" type="line"/>
+      <point x="154" y="500" type="line"/>
+      <point x="132" y="500" type="line"/>
+      <point x="27" y="489" type="line"/>
+    </contour>
+    <contour>
+      <point x="27" y="861" type="line"/>
+      <point x="132" y="850" type="line"/>
+      <point x="154" y="850" type="line"/>
+      <point x="262" y="861" type="line"/>
+      <point x="262" y="900" type="line"/>
+      <point x="27" y="900" type="line"/>
+    </contour>
+    <contour>
+      <point x="78" y="449" type="line"/>
+      <point x="212" y="449" type="line"/>
+      <point x="212" y="900" type="line"/>
+      <point x="78" y="900" type="line"/>
+    </contour>
+  </outline>
+</glyph>
